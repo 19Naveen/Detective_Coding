@@ -1,0 +1,21 @@
+Maid : Testimonial, Forensic report [Wrong time], Objects [Kitchen knife]
+Ethan : Diary [Threatened to kill]
+Oliver : Forensic report [Fitness freak]
+Marcus : Diary [Drug addict/Theft]
+Amelia : Forensic report [Judo champ], ex-Boyfriend[Lily's fiance`]
+Gabriel : Forensic report [Big muscular]
+Robert : Objects [Ring]
+
+Shoes : Oliver, Gabriel, Ethan
+Local news paper : Lily hits jackpot while her father's business is detoriating
+		   Tension arises between the founders of the Blitz company
+		   Ethan and Lily go head to head for ownership
+Phone Number: Oliver, Ethan, Marcus, Gabriel
+
+What happened :
+
+Lily found dead
+Many things went missing from the house
+Testimonials were taken 
+Forensic report is being made 
+Bootprints found on crime scene
