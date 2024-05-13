@@ -9,7 +9,7 @@ Combine the clues with your detective skills to identify the culprit. Are you re
 How the event works: 
 --------------------
 -> The game consists of a single level. 
--> The event comprises 10 coding problems, each of which's solutions will serve as a hint to solve the crime. 
+-> The event comprises of multiple coding problems, each of which's solutions will serve as a hint to solve the crime. 
 -> These hints can be used to narrow down the suspects. 
 -> The first team to identify the criminal will be announced as the winner.
 
